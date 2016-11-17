@@ -14,6 +14,7 @@ var assert = require('assert')
 **/
 
 var GeoFind = ((env) => {
+    'use strict'
     /**
      * Encode an object into a query string
      *
