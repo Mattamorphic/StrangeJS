@@ -5,8 +5,8 @@ I've devised based on strange ideas - you might find these useful you might not.
 
 ## Who's this for? ##
 
-- Ever wanted to convert a string to a set of hex colours?
-- ...more to come
+- Ever wanted to convert a string to a set of hex colours? (stringToHex)
+- Ever wanted to know how far, and how long it would take to walk to the nearest thing? (GeoFind)
 
 ## Contributions ##
 

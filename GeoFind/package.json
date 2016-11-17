@@ -1,0 +1,15 @@
+{
+  "name": "geofind",
+  "version": "1.0.0",
+  "description": "Where is that thing?",
+  "main": "GeoFind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Barber <mfmbarber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
