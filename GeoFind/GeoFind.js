@@ -90,7 +90,7 @@ var GeoFind = ((env) => {
                     name: closest.name,
                     icon: closest.icon,
                     distance: res.rows[0].elements[0].distance,
-                    driving: res.rows[0].elements[0].duration
+                    walking: res.rows[0].elements[0].duration
                 }
             })
         })
@@ -114,3 +114,5 @@ var GeoFind = ((env) => {
         }
     }
 })(process.env);
+
+module.exports = GeoFind
