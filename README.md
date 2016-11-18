@@ -7,6 +7,7 @@ I've devised based on strange ideas - you might find these useful you might not.
 
 - Ever wanted to convert a string to a set of hex colours? (stringToHex)
 - Ever wanted to know how far, and how long it would take to walk to the nearest thing? (GeoFind)
+- Ever wanted to convert a decimal to an ip address and vice versa? (ipify)
 
 ## Contributions ##
 
