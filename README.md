@@ -1,7 +1,7 @@
 # StrangeJS :squirrel: #
 
 StrangeJS is a collection of crazy, peculiar, and potentially useless/useful modules
-I've devised based on strange ideas - you might find these useful you might not...
+contributers devise based on strange ideas - you might find these useful you might not...
 
 ## Who's this for? ##
 
@@ -11,7 +11,7 @@ I've devised based on strange ideas - you might find these useful you might not.
 
 ## Contributions ##
 
-Please feel free to fork and add your own strange contributions
+Please fork and add your own strange contributions
 
 - Create a branch feature/module_name
 - Create a folder for your module / code
