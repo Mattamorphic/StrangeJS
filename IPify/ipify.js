@@ -10,11 +10,11 @@
 (function (root, factory) {
     
   if( typeof define === "function" && define.amd ) {
-    define( ["ipify"], factory );
+    define( ["ipify"], factory() );
   } else if( typeof module === "object" && module.exports ) {
-    module.exports = factory( require("ipify") );
+    module.exports = factory();
   } else {
-    root.ipify = factory( root.ipify );
+    root.ipify = factory();
   }
     
 })(this, function() {
